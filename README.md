@@ -77,8 +77,12 @@ I think next year I'm going to say first drafts have to be in within a week. Tho
 Is the level of effort for the various contract grades about right? What did you think of only having
 assignments on the contracts? What could improve that experience? 
 
+## 6. Technology
 
-## 5. Final Thoughts
+We basically did Moodle and GitHub Classroom. It seems reasonably smooth from my side. How'd it work 
+out for you, particularly for people who hadn't used it before? Anything I can do to make that easier?
+
+## 7. Final Thoughts
 
 This is a section to give me some closing thoughts or feedback that doesn't fit into
 the other sections. 
