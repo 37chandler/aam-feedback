@@ -53,9 +53,8 @@ discussion/work in class? What stood out to you as effective? What stood out as 
 
 ## 4. Assignments
 
-The assignments made up a lot of class. I know Burrowing Bees was a lot of work. Should that maybe count
-for 2? Or maybe I just help more? I also know the "Bootstrap Chi and Correlation" one was way too long. I'm 
-going to split that into two. 
+The assignments made up a lot of class. I know Burrowing Bees was a lot of work, so it became optional. 
+This year we had bootstrap chi and correlation split into two assignments. 
 
 What else do you have for me? Any assignments really good? Any pretty bad? How's the level of difficulty?
 
