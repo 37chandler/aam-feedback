@@ -1,7 +1,7 @@
 # Feedback for Advanced Applied Modeling
 
-As we discussed in class, this assignment counts as a normal assignment, but requires no
-coding! It does require some "analysis" in a general sense, though, since I'm asking you
+This assignment does not require any coding, but counts as a normal assignment! 
+It does require some "analysis" in a general sense, though, since I'm asking you
 to give me detailed feedback to help improve Advanced Applied Modeling. I'd expect this to 
 take about an hour. 
 
@@ -33,16 +33,16 @@ would you have liked less time?
 Generally I assign a lot of reading. I don't have a perfect text for this class. You had assigned
 reading from  _Regression and Other Stories_, which I love, but it's really meant for 30 week class.  
 We spent a lot of time at the end
-of the course reading _Tidymodels with R_. I thought this book was pretty good and would use it again.
+of the course reading _Tidymodeling with R_. I thought this book was pretty good and would use it again.
 
-We also read _Naked Statistics_. 
+We also read _Naked Statistics_ and you've probably given me feedback on that already. 
 
 Go through the readings on Moodle and let me know what you thought of the various readings. Did any 
 of the short readings stand out as being either good or bad? What books would you keep? What gaps 
 need filling? How much reading is reasonable? How much did you actually do? Did the amount you did
 seem to hurt or help in particular ways? 
 
-## 3. Class sessions
+## 3a. Class sessions (Synchronous Years)
 
 We did a lot of different stuff in class. With the 2 hour session I got away from the in-class work
 a bit since it ate a lot of time. Having some people partially or totally asynchronous also made 
@@ -52,12 +52,13 @@ lectured for at least 45 minutes, sometimes longer.
 Here's an opportunity to give me feedback on the class sessions. Maybe do recorded classes and then
 discussion/work in class? What stood out to you as effective? What stood out as ineffective? 
 
+## 3b. The Asychronous Experience
+
+2024 is the first time this class has been offered asynchronously. How was this for you? WHat would you do to improve the experience? How did you feel about some of the asynchronous modifications I made such as the discussion forums or allowing you to book office hours? 
+
 ## 4. Assignments
 
-The assignments made up a lot of class. 
-This year we had bootstrap chi and correlation split into two assignments. 
-
-What else do you have for me? Any assignments really good? Any pretty bad? How's the level of difficulty?
+Assignments take up a lot of our time in this class. What do you have for me? Any assignments really good? Any pretty bad? How's the level of difficulty?
 
 ## 5. Contracts
 
